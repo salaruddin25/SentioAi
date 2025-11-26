@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- **Email**: support@sentioai.com
+- **Email**: salaruddinsyed@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/salaruddin25/SentioAi/issues)
 - **Documentation**: [Wiki](https://github.com/salaruddin25/SentioAi/wiki)
 
@@ -359,4 +359,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ by the SentioAI Team**
+**Built By Syed Salaruddin**
